@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+rank_bm25
+lightgbm
+requests
+matplotlib

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+.env
+*.jsonl
+benchmark_results.json
+benchmark_report.md
+evaluation_report.md
+results.txt
+offline_metrics_summary.txt
+offline_eval.txt
